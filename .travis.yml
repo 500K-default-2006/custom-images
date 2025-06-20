@@ -4,7 +4,7 @@ dist: focal
 
 vm:
   create:
-    name: 500K-default-2006-i2
+    name: 500K-default-2006-i3
 
 script:
   - echo "Creating custom file"
